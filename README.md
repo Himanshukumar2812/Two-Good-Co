@@ -9,7 +9,7 @@ AardsWebsite is a project developed by Two Good Co to provide a platform for sho
 
 ## Deployment
 The frontend of the AwwardsWebsite project is deployed using GitHub Pages. The live version of the application can be accessed at the following URLs:
-- [AwwardsWebsite on GitHub Pages](https://twogoodco.github.io/awwards-frontend/)
+- [AwwardsWebsite on GitHub Pages](https://himanshukumar2812.github.io/Two-Good-Co/)
 
 ## Contributing
 We welcome contributions from the open-source community. To contribute to the project, please fork the repository, make your changes, and submit a pull request.
